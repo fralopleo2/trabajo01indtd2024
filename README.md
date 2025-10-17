@@ -12,8 +12,9 @@ El trabajo incluye la creación y resolución de dos problemas inventados, tal c
 
 | Archivo | Contenido |
 | :--- | :--- |
-| **Trabajo1.R** | Script principal que contiene: <ul><li>Los enunciados de los dos problemas inventados (como comentarios).</li><li>La matriz de decisión y el código R para la resolución completa de ambos problemas.</li><li>La conclusión clara de la decisión óptima para cada caso.</li></ul> |
-| **teoriadecision\_funciones\_incertidumbre.R** | Archivo de funciones R proporcionado por la asignatura, utilizado para ejecutar los diferentes criterios de incertidumbre. |
+| **Enunciados de los Problemas de Teoría de la Decisión bajo Incertidumbre** | Documento que contiene exclusivamente el enunciado completo de los dos problemas inventados (Problema 1 y Problema 2). |
+| **Trabajo1.R** | Script de R que contiene: <ul><li>La matriz de decisión y el código R para la **resolución completa** de los dos problemas.</li><li>Los enunciados de los problemas incluidos como comentarios.</li><li>La **conclusión** clara de la decisión óptima al final de cada resolución.</li></ul> |
+| **teoriadecision\_funciones\_incertidumbre.R** | Archivo de funciones R proporcionado por la asignatura, necesario para ejecutar los diferentes criterios de incertidumbre. |
 | **README.md** | Este documento. |
 
 ---
