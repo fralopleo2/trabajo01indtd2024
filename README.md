@@ -1,4 +1,3 @@
-# trabajo01indtd2024
 # 💻 trabajo01indtd2024: Métodos de Decisión bajo Incertidumbre
 
 ## Descripción del Proyecto Individual
