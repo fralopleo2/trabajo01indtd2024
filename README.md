@@ -31,12 +31,3 @@ El script resuelve dos escenarios de toma de decisiones bajo incertidumbre:
     * **Resolución:** Se utiliza la función consolidada `criterio.Todos` para obtener la decisión final por consenso.
 
 ---
-
-## Requisitos y Cumplimiento
-
-Este repositorio cumple con las características obligatorias para el proyecto individual:
-
-* **Nombre:** `[TuUsuarioGitHub]/trabajo01indtd2024`.
-* **Commits:** Se han realizado al menos 3 commits para documentar la evolución del trabajo.
-* **Issues:** Se han generado al menos 2 incidencias (issues).
-* **Descripción:** Este `README.md` proporciona la descripción del contenido.
